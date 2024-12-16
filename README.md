@@ -13,7 +13,9 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-I'm a passionate Full Stack Developer and aspiring Data Scientist, currently pursuing my Bachelor's in Software Engineering at Islamic University of Technology. My journey in tech spans from building robust web applications to diving deep into the world of machine learning and data science.
+I'm an aspiring AI Engineer with a strong foundation in Full Stack Development, currently pursuing my Bachelor's in Software Engineering at Islamic University of Technology. My passion lies in building intelligent systems that can transform how we interact with technology. With a proven track record in hackathons and data science competitions, I'm actively working on projects that bridge the gap between traditional software development and cutting-edge AI technologies.
+
+I specialize in developing AI-powered applications, from implementing neural networks for stock prediction to building LLM-based educational platforms. My goal is to push the boundaries of what's possible with AI while maintaining a solid foundation in software engineering principles.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI5Y2k2bWF1ZWx1ZHYyOWprNzF1bWF6Y2t0MXd0ZmxqZW9wYmptbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
@@ -33,12 +35,14 @@ I'm a passionate Full Stack Developer and aspiring Data Scientist, currently pur
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Web Development & AI Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜️_LangChain-2C2C2C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🤖 Data Science & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -72,7 +76,7 @@ I'm a passionate Full Stack Developer and aspiring Data Scientist, currently pur
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codenim34&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=codenim34&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
