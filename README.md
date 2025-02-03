@@ -56,10 +56,11 @@ I specialize in developing AI-powered applications, from implementing neural net
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Featured Projects
 
-### 🎓 Lyceum - AI-enabled Learning Platform
+### 🎓 Inherit - AI-enabled Coding Platform
 - Modern educational platform combining traditional learning with AI
 - Built with Next.js, Groq, Clerk, and MERN stack
 - Features interactive coding environments and personalized learning paths
+- Collaborative coding platform
 
 ### 📈 Stock Market Price Predictor
 - LSTM-based neural network with 85% prediction accuracy
