@@ -85,6 +85,19 @@ I specialize in developing AI-powered applications, from implementing neural net
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenim34&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+## 📊 GitHub Stats
+
+
+[![Tasnim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codenim34&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+  <br>
+  <a href="https://github.com/takitajwar17?tab=repositories">Check out my repositories</a>
+</div>
+
 ## 🎯 Current Focus
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGprM2t5ZXd0bXF3NzBxbWJwOWRxcmRzZnJyZWxqZm1wbDN2NmczbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
