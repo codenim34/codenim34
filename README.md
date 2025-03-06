@@ -24,6 +24,7 @@ I specialize in developing AI-powered applications, from implementing neural net
 ### 🏆 Achievements
 - 🥇 Champion - AI and API hackathon (BITFEST 3.0 organized by KUET CSE)
 - 🥇 Champion - Dhaka Divisional Hackathon (IUBAT)
+- 🥇 Champion - HackNSU National Hackathon (NSU)
 - 🥇 Champion - 4th Data Science Summit Data Hackathon (Daffodil Int. University)
 - 🥈 1st Runner Up - Project Showcasing (BITFEST 3.0 organized by KUET CSE)
 - 🥈 1st Runner Up - National Hackathon (East West University & Programming Hero)
